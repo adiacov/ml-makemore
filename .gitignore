@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual env (uv)
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Model checkpoints / large outputs
+*.pt
+*.pth
+*.ckpt
+runs/
+outputs/
+
+# Env / secrets
+.env
+.env.*
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Claude Code: personal local settings
+.claude/settings.local.json
+
+# Private scratch space
+.dev/
