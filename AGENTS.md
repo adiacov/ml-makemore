@@ -31,6 +31,7 @@ If my request is ambiguous, or you have a question or a pushback (you think my a
 
 ## Assessments
 
+- Don't check me right after explaining something. First ask whether I have questions or am ready for the check; I may want clarifications. Only check once I say I'm ready.
 - When you ask me an assessment question, ask it and stop. Don't hint at the answer, give multiple-choice options, or add follow-ups in the same message.
 
 ## Project
